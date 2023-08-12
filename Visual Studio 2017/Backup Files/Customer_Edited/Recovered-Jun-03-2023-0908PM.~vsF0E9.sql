@@ -1,0 +1,5 @@
+CREATE TABLE myItem (
+
+INSERT INTO myItem 
+
+)
